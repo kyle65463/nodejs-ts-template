@@ -1,5 +1,5 @@
 {
-  "name": "ts-template",
+  "name": "nodejs-ts-template",
   "version": "1.0.0",
   "scripts": {
     "start": "ts-node -r tsconfig-paths/register --files src/index.ts",
